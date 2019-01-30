@@ -7848,7 +7848,7 @@ h1, h2, h3, h4, h5,
     .staff {
       margin-bottom: 30px; } }
   .staff .info {
-    width: 50%; }
+    width: 100%; }
     .staff .info h3 {
       font-size: 18px; }
       .staff .info h3 a {
