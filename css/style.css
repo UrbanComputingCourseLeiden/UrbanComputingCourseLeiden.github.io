@@ -7835,10 +7835,10 @@ h1, h2, h3, h4, h5,
 .staff {
   padding: 25px;
   bordeR: 1px solid whitesmoke;
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  border-radius: 10px;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -7848,7 +7848,7 @@ h1, h2, h3, h4, h5,
     .staff {
       margin-bottom: 30px; } }
   .staff .info {
-    width: 100%; }
+    width: 80%; }
     .staff .info h3 {
       font-size: 18px; }
       .staff .info h3 a {
